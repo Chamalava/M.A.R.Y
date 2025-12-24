@@ -6,4 +6,4 @@
 venv
 *.onnx
 *.onnx.json
-__pycache__*
+*__pycache__*

@@ -1,0 +1,6 @@
+ollama
+whisper
+sounddevice
+soundfile
+fastapi
+pydantic

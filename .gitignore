@@ -2,3 +2,7 @@
 ## EPiServer Files
 ######################
 *License.config
+
+venv
+*.onnx
+*.onnx.json

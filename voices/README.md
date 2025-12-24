@@ -1,6 +1,6 @@
 # Voces para Piper TTS
 
-Esta carpeta contiene los modelos de voz para Piper TTS, que se utilizan para la síntesis de voz (texto a voz) en M.A.R.Y.
+Esta carpeta deve de contener los modelos de voz para Piper TTS, que se utilizan para la síntesis de voz (texto a voz) en M.A.R.Y.
 
 ## Instalación de Nuevas Voces
 

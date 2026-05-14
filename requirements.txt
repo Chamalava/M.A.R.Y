@@ -1,6 +1,7 @@
 ollama
-whisper
+openai-whisper
 sounddevice
 soundfile
 fastapi
 pydantic
+uvicorn
